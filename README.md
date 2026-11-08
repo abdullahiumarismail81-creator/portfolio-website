@@ -11,7 +11,8 @@ Personal portfolio website showcasing my skills, projects, and professional expe
 
 <h2>GitHub</h2>
 
-<p>
+## GitHub
+
 View my projects on GitHub:
-github.com/abdullahiumarismail81-creator
-</p>
+
+https://github.com/abdullahiumarismail81-creator
